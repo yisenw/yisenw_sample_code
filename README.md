@@ -1,3 +1,3 @@
-# Sample Codes for Yisen Wang
+# EECS482 Project 1
 Codes for a course project regarding multi-thread programming.
-The main codes are contained in scheduler.cpp
+
